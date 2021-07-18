@@ -1,15 +1,20 @@
 # WebSocket
-Using WebSocket to build an interactive web application
 
-해당 가이드는 브라우저와 서버 간에 메시지를 주고받는 "Hello, world" 애플리케이션을 만드는 과정을 안내합니다.
+> 해당 리포지토리는 하위 공식문서를 바탕으로 공부하고 기록한 것입니다.
+>
+> [공식 문서](https://spring.io/guides/gs/messaging-stomp-websocket/)
 
-WebSocket은 TCP 위의 얇고 가벼운 계층입니다. 이것은 메시지를 포함하기 위해 "서브 프로토콜" 을 사용하는 데 적합합니다.
 
-이 가이드에서는 Spring과 함께 STOMP 메시징을 사용하여 대화형 웹 애플리케이션을 만듭니다.
 
-- 기본사항을 건너뛰기 하려면 해당 git에서 리포지토리를 다운로드하여 압축을 푸세요
+> 해당 가이드는 브라우저와 서버 간에 메시지를 주고받는 "Hello, world" 애플리케이션을 만드는 과정을 안내합니다.
 
-[spring-guides/gs-messaging-stomp-websocket](https://github.com/spring-guides/gs-messaging-stomp-websocket)
+> WebSocket은 TCP 위의 얇고 가벼운 계층입니다. 이것은 메시지를 포함하기 위해 "서브 프로토콜" 을 사용하는 데 적합합니다.
+
+> 이 가이드에서는 Spring과 함께 STOMP 메시징을 사용하여 대화형 웹 애플리케이션을 만듭니다.
+
+> 기본사항을 건너뛰기 하려면 해당 git에서 리포지토리를 다운로드하여 압축을 푸세요
+>
+> [spring-guides/gs-messaging-stomp-websocket](https://github.com/spring-guides/gs-messaging-stomp-websocket)
 
 # 1. [start.spring.io](http://start.spring.io) 로 프로젝트 생성하기
 
